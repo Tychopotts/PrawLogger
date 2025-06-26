@@ -46,7 +46,7 @@ pip install praw pyyaml
   user_agent: your_user_agent
   username: your_reddit_username
   password: your_reddit_password
-  subreddit: adhd
+  subreddit: subreddit
   ```
 
 **Note:**  
